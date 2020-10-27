@@ -1,4 +1,5 @@
 ![Ellipticoin Logo](README/ellipticoin.png)
+
 ###A Docker-based Miner for Ellipticoin
 ---
 
