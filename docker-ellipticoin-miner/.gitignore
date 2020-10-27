@@ -1,0 +1,4 @@
+pgdata/
+redisdata/
+.env
+
